@@ -14,9 +14,7 @@ from kivy.uix.button import Button
 from kivy.core.window import Window
 from kivymd.uix.boxlayout import MDBoxLayout
 
-
 Window.size = (400, 700)
-
 
 KV = '''
 #....
